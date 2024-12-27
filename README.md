@@ -1,5 +1,4 @@
-
-![Uploading me.png…]()
+[Uploading me.png…]()
 
 # Durgesh Ashok Bagul
 
