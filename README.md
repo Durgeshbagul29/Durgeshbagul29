@@ -1,3 +1,6 @@
+
+![Uploading me.png…]()
+
 # Durgesh Ashok Bagul
 
 Welcome to my GitHub profile! I'm Durgesh Ashok Bagul, a recent software engineering graduate with strong skills in programming, web development, and problem-solving. I am passionate about learning new technologies and building efficient solutions.
