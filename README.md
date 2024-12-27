@@ -1,6 +1,6 @@
 ![me](https://github.com/user-attachments/assets/61876fb9-5fee-4a35-a981-9e72aa2021ae)
 
-# Durgesh Ashok Bagul
+# 🎓 Durgesh Ashok Bagul
 
 Welcome to my GitHub profile! I'm Durgesh Ashok Bagul, a recent software engineering graduate with strong skills in programming, web development, and problem-solving. I am passionate about learning new technologies and building efficient solutions.
 
