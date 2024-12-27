@@ -38,6 +38,7 @@ Welcome to my GitHub profile! I'm Durgesh Ashok Bagul, a recent software enginee
 - **Portfolio:** [Durgesh Bagul](https://durgeshbagul29.github.io/durgesh-bagul-portfolio/)
 - **LinkedIn:** [Durgesh Bagul](https://www.linkedin.com/in/durgesh-bagul-5b102a17a/)
 - **GitHub:** [Durgeshbagul29](https://github.com/Durgeshbagul29)
+- **Twitter:** [durgesh_bagul29](https://x.com/durgesh_bagul29)
 - **Email:** [baguldurgesh29@gmail.com](mailto:baguldurgesh29@gmail.com)
 
 ---
