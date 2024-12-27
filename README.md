@@ -1,4 +1,4 @@
-[Uploading me.png…]()
+![me](https://github.com/user-attachments/assets/61876fb9-5fee-4a35-a981-9e72aa2021ae)
 
 # Durgesh Ashok Bagul
 
