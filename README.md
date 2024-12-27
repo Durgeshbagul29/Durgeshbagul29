@@ -28,8 +28,8 @@ Welcome to my GitHub profile! I'm Durgesh Ashok Bagul, a recent software enginee
 - **Programming Languages:** Java, JavaScript, PHP, Python
 - **Web Technologies:** HTML, CSS, Bootstrap, Tailwind CSS, React.js
 - **Frameworks:** Spring Boot
-- **Databases:** MySQL
-- **Version Control:** Git, GitHub, GitLab
+- **Databases:** MySQL, MongoDB
+- **Version Control:** Git, GitHub, GitLab, Docker, Jenkins, CI-CD
 - **Soft Skills:** Project Management, Teamwork, Public Relations, Problem Solving, Time Management
 
 ---
