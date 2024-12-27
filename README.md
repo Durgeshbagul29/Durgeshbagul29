@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm Durgesh Ashok Bagul, a recent software enginee
 ---
 
 ## 🌐 Connect With Me
-- **Portfolio:** [Durgesh Bagul](https://durgesh-bagul-resume.netlify.app/)
+- **Portfolio:** [Durgesh Bagul](https://durgeshbagul29.github.io/durgesh-bagul-portfolio/)
 - **LinkedIn:** [Durgesh Bagul](https://www.linkedin.com/in/durgesh-bagul-5b102a17a/)
 - **GitHub:** [Durgeshbagul29](https://github.com/Durgeshbagul29)
 - **Email:** [baguldurgesh29@gmail.com](mailto:baguldurgesh29@gmail.com)
@@ -44,6 +44,7 @@ Welcome to my GitHub profile! I'm Durgesh Ashok Bagul, a recent software enginee
 
 ## 🏆 Certifications
 - Full Stack Java Development - TechnoSignia Software Training Institute Pvt Ltd, Pune
+- Python And Flask Framework - Udemy
 - Advanced Software Engineering Job Simulation - Walmart
 - Developer Job Simulation - Accenture
 - Career Edge: Young Professional - TCS-ION
