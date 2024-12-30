@@ -1,4 +1,4 @@
-# 🎓 Durgesh Ashok Bagul
+<h2 align="left">Hi 👋 I am Durgesh Bagul, Software Engineer</h2>
 
 ![me](https://github.com/user-attachments/assets/61876fb9-5fee-4a35-a981-9e72aa2021ae)
 ###
