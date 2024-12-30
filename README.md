@@ -72,7 +72,7 @@ Welcome to my GitHub profile! I'm Durgesh Ashok Bagul, a recent software enginee
 ## 🌐 Connect With Me
  <div align="left">
   <a href="https://leetcode.com/Durgeshbagul29" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Leetcode&logo=slack&label=&color=FD9020&logoColor=blac&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="35" alt="slack logo"  />
   </a>
   <a href="https://www.linkedin.com/in/durgesh-bagul-5b102a17a" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
